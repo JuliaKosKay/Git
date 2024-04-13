@@ -42,4 +42,20 @@ else:
             print('What amount do you want to withdraw?')
         else:
             print('Card have been blocked, please, call your bank')
+pass
+#list
+personal = ['Alex', 'Julia', 'Ivan']
+print(personal[1])
+
+nums = [1, 2, 4, 88, 13]
+print(nums[1] + nums[4])
+
+personal.append('Oleg')
+print(personal)
+pn = []
+pn.append(personal)
+pn.append(nums)
+print(pn)
+
+
 

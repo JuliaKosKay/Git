@@ -1,4 +1,4 @@
-'''def summ(num1, num2):
+def summ(num1, num2):
     res = num1 + num2
     print(res)
 
@@ -73,7 +73,7 @@ while a > 1:
     #print(a) endless cycle
     ab = a-1
     #print(ab) endless cycle
-'''
+
 range(0, 10, 2)
 #start, stop, step
 r = list(range(10))

@@ -1,4 +1,4 @@
-def summ(num1, num2):
+'''def summ(num1, num2):
     res = num1 + num2
     print(res)
 
@@ -56,6 +56,54 @@ pn = []
 pn.append(personal)
 pn.append(nums)
 print(pn)
+
+#cycles
+
+students = ['Alexandr', 'Juliana', 'Ivana']
+
+for f in students:
+    if f == 'Juliana':
+        var = 'Engineer ' + f
+        print(var)
+        print(f)
+        print(len(f))
+
+a = 10
+while a > 1:
+    #print(a) endless cycle
+    ab = a-1
+    #print(ab) endless cycle
+'''
+range(0, 10, 2)
+#start, stop, step
+r = list(range(10))
+print(r)
+
+for f in range(10):
+    print(f) # same
+
+#list
+fam = ['Anna', 'Kira', 'Jane']
+print(fam)
+
+#set
+fam1 = {'Olga', 'Andrew', 'Mark'}
+print(fam1)
+
+#dict key:value
+
+fam3 = {'father':'Konstantin', 'mother':'Yulia', 'son':'Kirill'}
+print(fam3)
+print(fam3['father'])
+
+for k, v in fam3.items():
+    print(k)
+    print(v)
+    print(k+' — '+v)
+
+
+
+
 
 
 

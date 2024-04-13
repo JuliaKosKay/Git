@@ -1,4 +1,4 @@
-'''class Person():
+class Person():
 
     def __init__(self, name, age):
         self.name = name
@@ -19,7 +19,7 @@ man.dance()
 woman = Person('Alice', 22)
 print(woman.name)
 print(woman.age)
-woman.sing()'''
+woman.sing()
 
 class People():
    def __init__(self, name, age, height, weight):

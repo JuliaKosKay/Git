@@ -43,6 +43,3 @@ else:
         else:
             print('Card have been blocked, please, call your bank')
 
-
-
-

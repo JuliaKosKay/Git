@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7f6d27c8-cdab-4c32-b73d-05e8cdcfb417" name="Changes" comment="учебное">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/edu.py" beforeDir="false" afterPath="$PROJECT_DIR$/edu.py" afterDir="false" />
-    </list>
+    <list default="true" id="7f6d27c8-cdab-4c32-b73d-05e8cdcfb417" name="Changes" comment="учебное" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -65,7 +62,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713012412058</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="учебное">
+      <option name="closed" value="true" />
+      <created>1713016271385</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1713016271385</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

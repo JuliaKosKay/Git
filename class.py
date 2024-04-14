@@ -32,6 +32,9 @@ class People():
         descr = self.name + ', he is ' + str(self.age) + ' and his height is ' + str(self.height) + ', also his weight is ' + str(self.weight)
         print('his name is ' + descr)
         return descr #same as print
+
+   def get_weight(self):
+       print('Person weight is: ' + str(self.weight))
    def upd_weight(self, kg):
        self.weight = kg
 

@@ -56,4 +56,3 @@ warrior = Warrior('Eivor', 32, 200, 80)
 warrior.upd_weight(100)
 warrior.descr()
 warrior.get_rage()
-

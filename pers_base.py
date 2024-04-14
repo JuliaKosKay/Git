@@ -22,3 +22,16 @@ class People():
 guy = People('Killian', 35, 195, 94)
 guy.upd_weight(78)
 guy.descr()
+
+class Warrior(People):
+    #descendant
+    def __init__(self, name, age, height, weight):
+        super().__init__(name, age, height, weight)
+        self.rage = 100
+
+    def get_rage(self):
+        print('Warrior rage is: ' + str(self.rage))
+
+    def descr(self): #reset parent func
+        descr = self.name + ', he is ' + str(self.age) + ' and his rage is ' + str(self.rage)
+        print('his name is ' + descr)

@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7f6d27c8-cdab-4c32-b73d-05e8cdcfb417" name="Changes" comment="учебное">
-      <change afterPath="$PROJECT_DIR$/ken.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pers_base.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/warrior.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/class.py" beforeDir="false" afterPath="$PROJECT_DIR$/class.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pers_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/pers_base.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,8 +47,10 @@
     "Python.class.executor": "Run",
     "Python.edu.executor": "Run",
     "Python.edu2.executor": "Run",
+    "Python.ken.executor": "Run",
     "Python.pers_base.executor": "Run",
     "Python.start.executor": "Run",
+    "Python.warrior.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "EDU",
@@ -208,7 +209,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713084610700</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="учебное">
+      <option name="closed" value="true" />
+      <created>1713085033545</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1713085033545</updated>
+    </task>
+    <task id="LOCAL-00019" summary="учебное">
+      <option name="closed" value="true" />
+      <created>1713085134832</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1713085134832</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

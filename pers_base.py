@@ -1,3 +1,5 @@
+# This file is module for import class and func to ken.py
+
 class People():
     def __init__(self, name, age, height, weight):
         self.name = name
